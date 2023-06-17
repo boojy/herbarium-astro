@@ -1,0 +1,8 @@
+{
+  "title": "My Herbarium",
+  "description": "My musings about the Astro framework",
+  "image": {
+    "src": "/images/image-default.jpg",
+    "alt": "My Herbarium"
+  }
+}
